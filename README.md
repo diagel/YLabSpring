@@ -1,1 +1,7 @@
-"# YLabCore"  git init git add README.md git commit -m "first commit" git branch -M main git remote add origin https://github.com/diagel/YLabCore.git git push -u origin main
+"# YLabSpring"  
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/diagel/YLabSpring.git 
+git push -u origin main
